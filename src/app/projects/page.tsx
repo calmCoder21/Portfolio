@@ -12,7 +12,7 @@ const projects: Project[] = [
     description:
       "A personal portfolio built with Next.js and Tailwind CSS to showcase projects and skills.",
     tech: ["Next.js", "React", "Tailwind CSS"],
-    live: "#",
+    live: "https://portfolio-seven-ashy-33.vercel.app/",
     github: "#",
   },
   {
